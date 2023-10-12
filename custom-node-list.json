@@ -2446,6 +2446,16 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
+        },
+	{
+            "author": "spinagon",
+            "title": "Seam carving (image resize) for ComfyUI",
+            "reference": "https://github.com/spinagon/ComfyUI-seam-carving",
+            "files": [
+                "https://github.com/spinagon/ComfyUI-seam-carving"
+            ],
+            "install_type": "git-clone",
+            "description": "Node for resizing images using seam carving (liquid rescaling)."
         }
     ]
 }
